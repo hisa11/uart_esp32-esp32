@@ -1,3 +1,4 @@
+//引用 https://microcontrollerslab.com/esp32-uart-communication-pins-example/
 #include <HardwareSerial.h>
 
 HardwareSerial SerialPort(2); // use UART2
